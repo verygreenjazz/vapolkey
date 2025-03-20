@@ -1,6 +1,7 @@
 import java.sql.* ;
 
 // Project 3 submission for group 84 
+// To do: make a main() function
 
 class simpleJDBC
 {
