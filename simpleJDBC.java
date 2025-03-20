@@ -1,5 +1,7 @@
 import java.sql.* ;
 
+// Project 3 submission for group 84 
+
 class simpleJDBC
 {
     public static void main ( String [ ] args ) throws SQLException
